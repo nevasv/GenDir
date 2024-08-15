@@ -13,3 +13,5 @@ pip install buildozer
 buildozer init
 pip freeze > requirements.txt
 Commit02
+регистрируемся на https://www.travis-ci.com/
+переходим в свой проект More options/settings/Environment Variables
